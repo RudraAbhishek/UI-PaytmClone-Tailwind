@@ -1,3 +1,3 @@
 # Live Project link
 
-[Click here](https://uipaytmclone.netlify.app/)
+[Click here](https://ui-paytmclone-tailwind.netlify.app/)
